@@ -14,7 +14,7 @@ I decided not to use TDD for this project, because I haven't got a routine for t
 ## Plan Steps
 
 DONE Step 1. Create a GitHub repository.<br />
-Step 2. Use the booklist project as a base for the app.<br />
+DONE Step 2. Use the booklist project as a base for the app.<br />
 Step 3. Read about Roman numerals from Wikipedia and get the general idea of the task at hand.<br />
 Step 4. Make a first rough working version of converting an 'I' to '1' and display the result.<br />
 Step 5. Expand the idea from Step 4 to cover more cases.<br />
@@ -25,7 +25,7 @@ Step 9. Send the link to this repository back to the employer.<br />
 
 ## Design decisions
 
-The app is written using Hooks (New React) and it utilizes Material.ui theming.
+The app is written using Hooks (New React) and it utilizes window.localStorage and Material.ui theming.
 
 ## Known errors
 
