@@ -15,9 +15,9 @@ I decided not to use TDD for this project, because I haven't got a routine for t
 
 DONE Step 1. Create a GitHub repository.<br />
 DONE Step 2. Use the booklist project as a base for the app.<br />
-Step 3. Read about Roman numerals from Wikipedia and get the general idea of the task at hand.<br />
-Step 4. Make a first rough working version of converting an 'I' to '1' and display the result.<br />
-Step 5. Expand the idea from Step 4 to cover more cases.<br />
+DONE Step 3. Read about Roman numerals from Wikipedia and get the general idea of the task at hand.<br />
+DONE Step 4. Make a first rough working version of converting an 'I' to '1' and display the result.<br />
+Step 5. Expand on the idea from Step 4 to cover more cases.<br />
 Step 6. Make the program smarter by refactoring the code to other files.<br />
 Step 7. Check up on the time and see if you can make the app prettier.<br />
 Step 8. Wrap up and push the final version.<br />

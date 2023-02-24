@@ -19,8 +19,8 @@ export default function RomanForm() {
   };
   return (
     <>
-      <Typography variant="h4" style={theme.layout.alignment}>
-        Input Roman numeral
+      <Typography variant="h6" style={theme.layout.alignment}>
+        Input Roman numeral below
       </Typography>
       <Box
         component="form"
