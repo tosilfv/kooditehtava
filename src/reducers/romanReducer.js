@@ -1,10 +1,9 @@
+import { convertRoman } from "../helpers/helpers";
+
 export default function romanReducer(state, action) {
   switch (action.type) {
     case "ADD-ROMAN":
-      let convertedNumber = "";
-      if (action.number.toLowerCase() === "i") {
-        convertedNumber = 1
-      }
+      let convertedNumber = convertRoman(action.number);
       if (convertedNumber !== "") {
         return [
           ...state,
